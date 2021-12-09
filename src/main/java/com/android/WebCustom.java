@@ -19,11 +19,11 @@ public class WebCustom {
 @SqaAutowired
 public Object current_object_web;
 
-public boolean checkerce(){
-    GeneralMethod ok = new GeneralMethod();
-    ok.eq("param1","param2");
-    return true;
-}
+// public boolean checkerce(){
+//     GeneralMethod ok = new GeneralMethod();
+//     ok.eq("param1","param2");
+//     return true;
+// }
 
 public boolean datepickerakpk(String Date) {
 		try {
